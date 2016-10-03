@@ -1,2 +1,3 @@
 # rdcdc
-redmond data collector domains database
+redmond data collector domain database
++commercial hosts
