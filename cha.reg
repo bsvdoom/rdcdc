@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001]
+"PreferenceOrder"=dword:00000000
+"FriendlyName"="Undocked Profile"
+"Aliasable"=dword:00000000
+"Cloned"=dword:00000001
+"HwProfileGuid"="{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxXXXX}"
+
